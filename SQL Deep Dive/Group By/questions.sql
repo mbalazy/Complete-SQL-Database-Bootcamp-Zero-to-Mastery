@@ -1,5 +1,5 @@
 /*
-*  How many people were hired on did we hire on any given hire date?
+*  How many people did we hire on any given hire date?
 *  Database: Employees
 *  Table: Employees
 */
